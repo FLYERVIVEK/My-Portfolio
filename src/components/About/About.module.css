@@ -1,0 +1,106 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  padding: 73px;
+  margin: 109px 100px;
+  z-index: 1;
+}
+.cont{
+  border-radius: 15px;
+  padding:2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+}
+.title {
+  font-size: 3rem;
+  font-weight: var(--font-weight-bold);
+  font-family: var(--font-root);
+  color: var(--color-secondary);
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.aboutImage {
+  width: 35%;
+  border-radius: 15px;
+}
+
+.description {
+  font-size: 22px;
+  width:94%;
+  font-weight: var(--font-weight-normal);
+  font-family: var(--font-root);
+  color: var(--color-secondary);
+  margin-bottom: 1.2rem;
+  text-align: justify;
+}
+
+
+.sidedown{
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+.contactinfouppercontainer{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap:0.5rem;
+  margin-bottom: 1rem;
+  filter: invert(100%);
+}
+.contacticon1{
+  width: 42px;
+  filter: invert(100%);
+
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+  }
+
+  .content {
+    flex-direction: column;
+    margin:0.4rem;
+  }
+
+  .aboutImage {
+    display: none;
+  }
+
+  .title {
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+    text-align: center;
+  }
+ 
+  
+  .description {
+    font-size: 18px;
+    margin-bottom: 0.5rem;
+ 
+  }
+  
+  .sidedown{
+    margin-top: 0.5rem;
+    margin-left: 0;
+  }
+  
+  
+
+ 
+}

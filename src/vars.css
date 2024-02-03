@@ -1,0 +1,17 @@
+:root {
+  /* Colours */
+  --color-text: black;
+  --color-backgr: white;
+  --color-secondary: rgb(50, 50, 50);
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+  --color-my1: #555555;
+  /* Fonts */
+  --font-roboto: "Roboto";
+  --font-root: "Poppins", sans-serif;
+
+  --font-weight-light: 400;
+  --font-weight-normal: 500;
+  --font-weight-bold: 600;
+
+}
