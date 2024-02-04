@@ -21,7 +21,7 @@ CSS Modules: Scoped and modular styles for better maintainability and encapsulat
 GitHub Actions: Automate workflows, ensuring smooth deployment and continuous integration.
 
 🚀 Getting Started:
-Clone the repository: git clone https://github.com/your-username/portfolio.git
+Clone the repository: git clone https://github.com/FLYERVIVEK/My-Portfolio.git
 
 Install dependencies: npm install
 
