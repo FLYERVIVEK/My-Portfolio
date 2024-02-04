@@ -50,6 +50,8 @@ export const Projects = () => {
         settings: {
           slidesToShow: 2,
           slidesToScroll: 1,
+          prevArrow: <SamplePrevArrow />,
+          nextArrow: <SampleNextArrow />,
           dots: true
         }
       },
@@ -58,13 +60,17 @@ export const Projects = () => {
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
+          prevArrow: <SamplePrevArrow />,
+          nextArrow: <SampleNextArrow />
         }
       },
       {
         breakpoint: 480,
         settings: {
           slidesToShow: 1,
-          slidesToScroll: 1
+          slidesToScroll: 1,
+          prevArrow: <SamplePrevArrow />,
+          nextArrow: <SampleNextArrow />
         }
       }
     ]
