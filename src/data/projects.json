@@ -1,50 +1,22 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "My Portfolio",
+    "imageSrc": "projects/Portfolio.png",
+    "description": "Welcome to my portfolio website, crafted with precision using React for a seamless experience.",
+    "demo": "https://flyervivek.netlify.app/",
+    "source": "https://github.com/FLYERVIVEK/My-Portfolio"
   },
   {
-    "title": "Project B",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "News Webapp",
+    "imageSrc": "projects/News.png",
+    "description": "Explore the world of news with Apna News, a React-based web app powered by the Newsapp API.",
+    "source": "https://github.com/FLYERVIVEK/News-Webapp"
   },
   {
-    "title": "Project C",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project D",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project E",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project F",
-    "imageSrc": "about/aboutImage.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Gemini Bro",
+    "imageSrc": "projects/gemini.jpeg",
+    "description": "Gemini Bro, an Android app powered by Kotlin. Seamlessly integrated with the Google Gemini API",
+    "source": "https://github.com/FLYERVIVEK/Gemini-Bro"
   }
+
 ]
