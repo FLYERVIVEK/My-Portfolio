@@ -146,7 +146,7 @@ export const Skills = () => {
                   />
                   </div>
                 <div>
-                  <h3>Jetpack||androidx</h3>
+                  <h3>androidx</h3>
                   <p>Intermediate</p>
                 </div>
               </article>
