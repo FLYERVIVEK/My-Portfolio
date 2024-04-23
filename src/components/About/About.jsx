@@ -17,7 +17,7 @@ export const About = () => {
        <div className={styles.sidedown}>
 
         <p className={styles.description}>
-              I am currently engaged in acquiring skills in Mobile development and also I am in the process of refining my knowledge of Data Structures
+              I am currently engaged in acquiring skills in DevOps and Backend Development and also I am in the process of refining my knowledge of Data Structures
               and Algorithms in preparation for upcoming placement opportunities. My enthusiasm for learning always inspires me to join new communities.
         </p>
         <div className={styles.contactinfouppercontainer} >

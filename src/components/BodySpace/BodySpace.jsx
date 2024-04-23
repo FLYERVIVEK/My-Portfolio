@@ -13,10 +13,10 @@ export const BodySpace = () => {
         </p>
         <h1 className={styles.title}>Vivek Yadav</h1>
         <p className={styles.description}>
-             Android Developer
+          Devops Enthusiast
         </p>
         <div className={styles.social}>
-        <a href="mailto:iamvivekyadav2003@email.com" className={styles.contactBtn}>
+        <a href="mailto:iamvivekyadav2003@gmail.com" className={styles.contactBtn}>
           Contact
         </a>
         <a  href={Resume} download="VIVEK_Resume" className={styles.contactBtn}>
