@@ -4,7 +4,7 @@
 .pnp.js
 
 # Build output
-/dist
+
 
 # Environment variables
 .env.local
