@@ -1,5 +1,24 @@
 [
   {
+    "title": "End to End DevOps Project",
+    "imageSrc": "projects/Devopsify2.png",
+    "description": "The project covers infrastructure provisioning, CI/CD pipelines and robust monitoring .",
+    "source": "https://github.com/FLYERVIVEK/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project.git"
+  },
+  {
+    "title": "Discord Bot",
+    "imageSrc": "projects/discordbot.png",
+    "description": "Discord bot using Go that responds to the predefined commands",
+    "source": "https://github.com/FLYERVIVEK/DiscordBot.git"
+  },
+  {
+    "title": "CRUD Using Goa and PostgreSQL",
+    "imageSrc": "projects/gopostgresql.png",
+    "description": "Building a Stocks API with Go and PostgreSQL.",
+    "source": "https://github.com/FLYERVIVEK/GoPostgreSQLCRUD.git"
+  },
+
+  {
     "title": "My Portfolio",
     "imageSrc": "projects/Portfolio.png",
     "description": "Welcome to my portfolio website, crafted with precision using React for a seamless experience .",
