@@ -2,6 +2,32 @@ import React from "react";
 
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
+// import styled from 'styled-components'
+
+
+// const Skill = styled.div`
+
+//   background: ${({ theme }) => theme.card};
+//   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
+//   border: 0.1px solid #854CE6;
+//   border-radius: 16px;
+
+
+  
+// `
+
+// width: 100%;
+//   max-width: 500px;
+
+// padding: 18px 36px;
+//   @media (max-width: 768px) {
+//     max-width: 400px;
+//     padding: 10px 36px;
+//   }
+//   @media (max-width: 500px) {
+//     max-width: 330px;
+//     padding: 10px 36px;
+//   }
 
 export const About = () => {
   return (
@@ -17,8 +43,15 @@ export const About = () => {
        <div className={styles.sidedown}>
 
         <p className={styles.description}>
-              I am currently engaged in acquiring skills in DevOps and Backend Development and also I am in the process of refining my knowledge of Data Structures
-              and Algorithms in preparation for upcoming placement opportunities. My enthusiasm for learning always inspires me to join new communities.
+          <p className={styles.description1}>
+          Allow me to introduce myself,
+          </p>
+         
+        My Name is Vivek Yadav. I am a dedicated final-year Computer Science Engineering student pursuing my bachelors degree from Chandigarh university. With a strong focus on DevOps and backend development, I am also deeply engaged in mastering Data Structures and Algorithms (DSA). Beyond academics, I am passionate about exploring new communities, traveling, photography, and riding, which making me a well-rounded individual with a keen interest in both technology and personal growth. My enthusiasm for learning always inspires me to join new communities. My short-term goal is to learn machine learning, and I am currently focused on self-study to achieve it.
+        
+        <p className={styles.description2}>
+        Thank you
+          </p>
         </p>
         <div className={styles.contactinfouppercontainer} >
 
@@ -33,7 +66,7 @@ export const About = () => {
         </a>
         </div>
         <div className={styles.contactinfocontainer}>
-        <a href="https://twitter.com/VivekYa44967642">
+        <a href="https://x.com/VivekYa67713764">
         <img src={getImageUrl("contact/xIcon.png")} alt="X icon" className={styles.contacticon1 } />
         </a>
         </div>
