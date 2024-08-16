@@ -94,62 +94,63 @@ export const skills = [
         {
           name: "Terraform",
           image:
-            "../../../assets/skills/terraform.png",
+            "https://img.icons8.com/?size=100&id=F2ZeQQjwdIJp&format=png&color=000000",
         },
         {
           name: "Ansible",
           image:
-          "../../../assets/skills/ansible.png",
+          "https://img.icons8.com/?size=100&id=iGCCE2iEmh2u&format=png&color=000000",
         },
         {
             name: "Helm",
             image:
-             "../../../assets/skills/helm.png",
+             "https://img.icons8.com/?size=100&id=QNB1wkMEKDtR&format=png&color=000000",
           },
           {
             name: "SonarQube",
             image:
-              "../../../assets/skills/sonarqube.png",          },
+              "https://icon.icepanel.io/Technology/png-512/SonarQube.png",     
+                 },
           {
             name: "Nexus",
             image:
-              "../../../assets/skills/nexus.png",          },
+              "https://www.sonatype.com/hubfs/2-2023-Product%20Logos/sonatype-repository-icon.png",          },
           {
             name: "ArgoCD",
             image:
-             "../../../assets/skills/argocd.png",
+             "https://icon.icepanel.io/Technology/png-512/Argo-CD.png",
           },
          
           {
             name: "Trivy",
             image:
-            "../../../assets/skills/trivy.png",
+            "https://trivy.dev/wp-content/themes/trivy_v1/images/logo_trivy_noborder_dark.svg",
           },
           {
             name: "OWASP",
             image:
-             "../../../assets/skills/owasp.png",
+             "https://owasp.org/assets/images/logo.png",
           },
           {
             name: "Github Actions",
             image:
-             "../../../assets/skills/githubactions.png",
+             "https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg",
           },
           {
             name: "Shell Scripting",
             image:
-              "../../../assets/skills/shell.png",
+              "https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000",
           },
          
           {
             name: "Prometheus",
             image:
-              "../../../assets/skills/prometheus.png",
+              "https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000",
           },
           {
             name: "Grafana",
             image:
-             "../../../assets/skills/grafana.jpeg",
+             "https://img.icons8.com/?size=100&id=9uVrNMu3Zx1K&format=png&color=000000",
           },
          
       ],
@@ -160,11 +161,11 @@ export const skills = [
         skills: [
           {
             name: "Golang",
-            image: "../../../assets/skills/golang.png",
+            image: "https://go.dev/images/go-logo-white.svg",
           },
           {
               name: "Flask",
-              image: "../../../assets/skills/flask.png",
+              image: "https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000",
             },
           {
               name: "Node Js",
@@ -201,7 +202,7 @@ export const skills = [
           {
               name: "Restful API’s",
               image:
-              "../../../assets/skills/rest.png",
+              "https://img.icons8.com/?size=100&id=Oz14KBnT7lnn&format=png&color=000000",
             },
           
          
@@ -222,12 +223,12 @@ export const skills = [
           {
             name: "Golang",
             image:
-            "../../../assets/skills/golang.png",
+            "https://go.dev/images/go-logo-white.svg",
           },
           {
             name: "C++",
             image:
-            "../../../assets/skills/cpp.png",
+            "https://isocpp.org/files/img/cpp_logo.png",
           },
         ],
       },
@@ -272,27 +273,27 @@ export const skills = [
           },
           {
             name: "TenserFlow",
-            image:  "../../../assets/skills/tf.png",
+            image:  "https://www.gstatic.com/devrel-devsite/prod/vb04bc6a770b206c5880569d039fa6eaa90ca0850e1afe1934dab7999e04ac53a/tensorflow/images/favicon.png",
           },
           {
             name: "Keras",
             image:
-            "../../../assets/skills/keras.png",
+            "https://keras.io/img/logo.png",
           },
           {
             name: "Google Colab",
             image:
-            "../../../assets/skills/colab.png",
+            "https://colab.google/static/images/icons/colab.png",
           },
           {
             name: "SK Learn Kit",
             image:
-            "../../../assets/skills/sk.png",
+            "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png",
           },
           {
             name: "Jupyter",
             image:
-            "../../../assets/skills/jupyter.png",
+            "https://jupyter.org/assets/homepage/main-logo.svg",
           },
         ],
       },
@@ -303,7 +304,7 @@ export const skills = [
         {
           name: "Git",
           image:
-          "../../../assets/skills/git.png",
+          "https://img.icons8.com/?size=100&id=38388&format=png&color=000000",
         },
         {
           name: "GitHub",
@@ -311,9 +312,9 @@ export const skills = [
             "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
         },
         {
-          name: "Netlify",
+          name: "Vercel",
           image:
-            "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+            "https://assets.vercel.com/image/upload/front/favicon/vercel/favicon.ico",
         },
         {
           name: "VS Code",
@@ -323,12 +324,12 @@ export const skills = [
         {
           name: "Postman",
           image:
-          "../../../assets/skills/postman.png",       
+          "https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8",       
          },
         {
             name: "thunderclient",
             image:
-            "../../../assets/skills/thunderclient.png",
+            "https://www.thunderclient.com/favicon.ico",
         },
       ],
     },
