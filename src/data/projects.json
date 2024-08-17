@@ -12,7 +12,7 @@
     "source": "https://github.com/FLYERVIVEK/DiscordBot.git"
   },
   {
-    "title": "CRUD Using Goa and PostgreSQL",
+    "title": "CRUD Using Golang and PostgreSQL",
     "imageSrc": "projects/gopostgresql.png",
     "description": "Building a Stocks API with Go and PostgreSQL.",
     "source": "https://github.com/FLYERVIVEK/GoPostgreSQLCRUD.git"
