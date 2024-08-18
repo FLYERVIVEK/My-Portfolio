@@ -32,7 +32,7 @@ Customize the content in the src directory to tailor the portfolio to your needs
 
 Website Live Demo
 
-https://flyervivek.netlify.app/
+https://flyervivek.vercel.app/
 
 
 🚀 Elevate your online presence with this polished React Vite Portfolio. 
