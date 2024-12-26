@@ -1,14 +1,39 @@
 [
+
+  {
+    "title": "Pneumonia Detection Using Deep Learning and Flask",
+    "imageSrc": "projects/deeplearning.png",
+    "description": "Deep learning pneumonia detection system using CNNs with 95% accuracy, integrated with Flask.",
+    "source": "https://github.com/FLYERVIVEK/Pneumonia-Detection-Using-Deep-Learning-and-Flask.git"
+  },
+  {
+    "title": "Adaptive Video Streaming Application",
+    "imageSrc": "projects/videostreaming.png",
+    "description": "Scalable video streaming platform with adaptive bitrate streaming Using Node.js",
+    "source": "https://github.com/FLYERVIVEK/Adaptive-Video-Streaming-Application.git"
+  },
+  {
+    "title": "Advanced Text Search Engine",
+    "imageSrc": "projects/textsearch.jpg",
+    "description": "High performance full text search engine using Go.",
+    "source": "https://github.com/FLYERVIVEK/Advanced-Text-Search-Engine.git"
+  },
+  {
+    "title": "GoScraper",
+    "imageSrc": "projects/scraper.png",
+    "description": "Real Time Stock Market Data Extraction Tool Using Golang.",
+    "source": "https://github.com/FLYERVIVEK/GoScraper-Real-Time-Stock-Market-Data-Extraction-Tool.git"
+  },
   {
     "title": "End to End DevOps Project",
     "imageSrc": "projects/Devopsify2.png",
-    "description": "The project covers infrastructure provisioning, CI/CD pipelines and robust monitoring .",
+    "description": "The project covers infrastructure, CI/CD pipelines and robust monitoring.",
     "source": "https://github.com/FLYERVIVEK/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project.git"
   },
   {
     "title": "Discord Bot",
     "imageSrc": "projects/discordbot.png",
-    "description": "Discord bot using Go that responds to the predefined commands",
+    "description": "Discord bot using Go that responds to the predefined commands.",
     "source": "https://github.com/FLYERVIVEK/DiscordBot.git"
   },
   {
@@ -21,7 +46,7 @@
   {
     "title": "My Portfolio",
     "imageSrc": "projects/Portfolio.png",
-    "description": "Welcome to my portfolio website, crafted with precision using React for a seamless experience .",
+    "description": "Welcome to my portfolio website, crafted with precision using React for a seamless experience.",
     "demo": "https://flyervivek.netlify.app/",
     "source": "https://github.com/FLYERVIVEK/My-Portfolio"
   },
@@ -34,7 +59,7 @@
   {
     "title": "Gemini Bro",
     "imageSrc": "projects/gemini.jpeg",
-    "description": "Gemini Bro, an Android app powered by Kotlin. Seamlessly integrated with the Google Gemini API",
+    "description": "Gemini Bro, an Android app powered by Kotlin. Seamlessly integrated with the Google Gemini API.",
     "source": "https://github.com/FLYERVIVEK/Gemini-Bro"
   }
  
