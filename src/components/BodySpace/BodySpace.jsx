@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./BodySpace.module.css";
 import { getImageUrl } from "../../utils";
-import Resume from "../../../assets/Resume/vivek_resume.pdf";
+import Resume from "../../../assets/Resume/VIVEKYADAVRESUME.pdf";
 
 export const BodySpace = () => {
   return (
@@ -19,7 +19,7 @@ export const BodySpace = () => {
         <a href="mailto:iamvivekyadav2003@gmail.com" className={styles.contactBtn}>
           Contact
         </a>
-        <a  href={Resume} download="VIVEK_Resume" className={styles.contactBtn}>
+        <a  href={Resume} download="VIVEK_YADAV_RESUME" className={styles.contactBtn}>
           Resume
         </a>
         </div>
